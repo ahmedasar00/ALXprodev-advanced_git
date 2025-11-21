@@ -18,7 +18,7 @@ Git-Flow revolves around five primary branch types:
 
 Git-Flow improves:
 
-- **Code organization** by clearly separating development stages
+- **Code organization** by clearly separating development stagesig ik
 - **Team collaboration** through structured branching and merging workflows
 - **Code stability** by allowing features to be tested and integrated before reaching production
 - **Release management** by isolating release-specific tasks
@@ -450,7 +450,7 @@ chmod +x .git/hooks/post-merge
 - [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
 - [Git Hooks Documentation](https://git-scm.com/docs/githooks)
 - [Conventional Commits](https://www.conventionalcommits.org/)
+- [Merging vs rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
+- [Comparing Git workflows: What you should know](https://www.atlassian.com/git/tutorials/comparing-workflows)
+- 
 
-## Thanks 
-
-**Happy coding! ✨**
