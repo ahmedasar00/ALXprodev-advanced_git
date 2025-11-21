@@ -451,14 +451,6 @@ chmod +x .git/hooks/post-merge
 - [Git Hooks Documentation](https://git-scm.com/docs/githooks)
 - [Conventional Commits](https://www.conventionalcommits.org/)
 
-## License
-
-This project is part of a professional development curriculum and is intended for educational purposes.
-
-## Contact & Support
-
-For questions or support regarding this project, please refer to the documentation or contact your course instructor.
-
----
+## Thanks 
 
 **Happy coding! ✨**
