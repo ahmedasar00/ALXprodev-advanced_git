@@ -452,5 +452,4 @@ chmod +x .git/hooks/post-merge
 - [Conventional Commits](https://www.conventionalcommits.org/)
 - [Merging vs rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
 - [Comparing Git workflows: What you should know](https://www.atlassian.com/git/tutorials/comparing-workflows)
-- 
 
